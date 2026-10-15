@@ -1,33 +1,46 @@
-# Vasavi Kosaraju
+![Vasavi’s AI lab — ideas, experiments, and things that work](./profile-banner.svg)
 
-### AI / ML · Information Retrieval · ML Systems
+# Hey, I’m Vasavi 👋
 
-My current focus is AI and machine learning, particularly how to retrieve useful information, evaluate results, and make experiments reproducible.
+Welcome to my AI corner of GitHub. I’m currently focused on **AI/ML, information retrieval, and evaluation**—building small tools, testing the details, and figuring out what makes them useful.
 
-I’m building Python projects around document search and retrieval evaluation. I’m also interested in the engineering around ML applications: testing, release checks, observability, and reliable delivery.
+**🔎 Find useful information · 🧪 Measure what works · 🛠️ Make it reliable**
 
-## AI projects
+## 🔬 On the workbench
 
-| Project | What it does | Technical focus |
+| Project | The question behind it | Inside |
 | --- | --- | --- |
-| [Runbook Search](https://github.com/VasaviKosaraju1/runbook-search) | Finds relevant passages in operational documents and returns source references | BM25 ranking, chunking, deterministic retrieval, evaluation |
-| [Retrieval Eval Kit](https://github.com/VasaviKosaraju1/retrieval-eval-kit) | Measures ranked search results against relevance judgments | Recall, hit rate, MRR, nDCG, per-query analysis |
+| [🔎 Runbook Search](https://github.com/VasaviKosaraju1/runbook-search) | Can we find the right operational note when we need it? | BM25 search, source references, retrieval evaluation |
+| [🧪 Retrieval Eval Kit](https://github.com/VasaviKosaraju1/retrieval-eval-kit) | How do we know a search result is actually good? | Recall, hit rate, MRR, nDCG, per-query results |
 
-These projects cover retrieval and evaluation. Each includes runnable examples, tests, design decisions, and limitations so the results can be reproduced and inspected.
+There’s working code to try, tests to run, and notes on what each project can—and can’t—do.
 
-## What I’m exploring next
+## 🌱 Next experiments
 
-- Comparing lexical retrieval with embedding-based search on held-out questions.
-- Understanding when retrieved evidence is sufficient to support an answer.
-- Monitoring feature distributions and investigating changes in model inputs.
+- Compare keyword search with embedding-based retrieval on held-out questions.
+- Explore when retrieved evidence can support an answer.
+- Investigate what changes in model inputs can tell us about feature drift.
 
-## Engineering around AI
+## 🧰 Behind the experiments
 
-- [Release Preflight](https://github.com/VasaviKosaraju1/release-preflight) — checks Kubernetes deployment configuration before a release.
-- [SLO Report](https://github.com/VasaviKosaraju1/slo-report) — reports availability, latency, and request-based error budgets.
-- [Artifact Integrity](https://github.com/VasaviKosaraju1/artifact-integrity) — creates and verifies SHA-256 manifests for release files.
-- [Structured Log Redactor](https://github.com/VasaviKosaraju1/structured-log-redactor) — redacts configured fields in structured logs.
+Good ideas need dependable tools around them, too.
 
-## Other tools
+| Tool | What it helps with |
+| --- | --- |
+| [Release Preflight](https://github.com/VasaviKosaraju1/release-preflight) | Catching deployment configuration mistakes |
+| [SLO Report](https://github.com/VasaviKosaraju1/slo-report) | Understanding availability, latency, and error budgets |
+| [Artifact Integrity](https://github.com/VasaviKosaraju1/artifact-integrity) | Checking whether release files have changed |
+| [Structured Log Redactor](https://github.com/VasaviKosaraju1/structured-log-redactor) | Redacting configured fields in structured logs |
 
-[Cloud Budget Planner](https://github.com/VasaviKosaraju1/cloud-budget-planner) · [Config Drift Review](https://github.com/VasaviKosaraju1/config-drift-review) · [Cloud Tag Audit](https://github.com/VasaviKosaraju1/cloud-tag-audit)
+<details>
+<summary>📦 A few more tools in the drawer</summary>
+
+- [Cloud Budget Planner](https://github.com/VasaviKosaraju1/cloud-budget-planner): infrastructure scenario estimates and budget checks.
+- [Config Drift Review](https://github.com/VasaviKosaraju1/config-drift-review): readable JSON configuration differences.
+- [Cloud Tag Audit](https://github.com/VasaviKosaraju1/cloud-tag-audit): ownership and cost-allocation tag checks.
+
+</details>
+
+---
+
+**Have a look around. The code, tests, and tradeoffs are all in the repos. ✨**
