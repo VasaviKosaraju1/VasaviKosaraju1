@@ -1,26 +1,33 @@
 # Vasavi Kosaraju
 
-DevOps · Cloud · AI
+### AI / ML · Information Retrieval · ML Systems
 
-I’m interested in the practical work behind reliable software: checking a release before it ships, understanding service behavior, and evaluating the data that AI systems rely on.
+My current focus is AI and machine learning, particularly how to retrieve useful information, evaluate results, and make experiments reproducible.
 
-## Start here
+I’m building Python projects around document search and retrieval evaluation. I’m also interested in the engineering around ML applications: testing, release checks, observability, and reliable delivery.
 
-| Project | What to look at |
-| --- | --- |
-| [Release Preflight](https://github.com/VasaviKosaraju1/release-preflight) | Kubernetes deployment policies, structured findings, and passing/failing manifests |
-| [Runbook Search](https://github.com/VasaviKosaraju1/runbook-search) | BM25 retrieval, source references, and a reproducible evaluation |
-| [Cloud Budget Planner](https://github.com/VasaviKosaraju1/cloud-budget-planner) | Scenario estimates, decimal arithmetic, and budget gates |
-| [SLO Report](https://github.com/VasaviKosaraju1/slo-report) | Availability, latency percentiles, and request-based error budgets |
-| [Artifact Integrity](https://github.com/VasaviKosaraju1/artifact-integrity) | SHA-256 release manifests, mismatch detection, and filesystem boundary checks |
-| [Retrieval Eval Kit](https://github.com/VasaviKosaraju1/retrieval-eval-kit) | Hit rate, recall, MRR, and nDCG with per-query results |
+## AI projects
 
-## More tools
+| Project | What it does | Technical focus |
+| --- | --- | --- |
+| [Runbook Search](https://github.com/VasaviKosaraju1/runbook-search) | Finds relevant passages in operational documents and returns source references | BM25 ranking, chunking, deterministic retrieval, evaluation |
+| [Retrieval Eval Kit](https://github.com/VasaviKosaraju1/retrieval-eval-kit) | Measures ranked search results against relevance judgments | Recall, hit rate, MRR, nDCG, per-query analysis |
 
-- [Config Drift Review](https://github.com/VasaviKosaraju1/config-drift-review) — deterministic JSON snapshot diffs with exact path exclusions.
-- [Cloud Tag Audit](https://github.com/VasaviKosaraju1/cloud-tag-audit) — ownership and cost-allocation tag checks on exported inventories.
-- [Structured Log Redactor](https://github.com/VasaviKosaraju1/structured-log-redactor) — recursive field redaction for JSON Lines, with fail-closed parsing.
+These projects cover retrieval and evaluation. Each includes runnable examples, tests, design decisions, and limitations so the results can be reproduced and inspected.
 
-The projects are written in Python and include runnable examples, behavioral tests, design notes, and known limitations. They run locally without cloud credentials. Automated test workflows cover Python 3.11–3.13. Validation reports use synthetic fixtures and make the results reproducible.
+## What I’m exploring next
 
+- Comparing lexical retrieval with embedding-based search on held-out questions.
+- Understanding when retrieved evidence is sufficient to support an answer.
+- Monitoring feature distributions and investigating changes in model inputs.
 
+## Engineering around AI
+
+- [Release Preflight](https://github.com/VasaviKosaraju1/release-preflight) — checks Kubernetes deployment configuration before a release.
+- [SLO Report](https://github.com/VasaviKosaraju1/slo-report) — reports availability, latency, and request-based error budgets.
+- [Artifact Integrity](https://github.com/VasaviKosaraju1/artifact-integrity) — creates and verifies SHA-256 manifests for release files.
+- [Structured Log Redactor](https://github.com/VasaviKosaraju1/structured-log-redactor) — redacts configured fields in structured logs.
+
+## Other tools
+
+[Cloud Budget Planner](https://github.com/VasaviKosaraju1/cloud-budget-planner) · [Config Drift Review](https://github.com/VasaviKosaraju1/config-drift-review) · [Cloud Tag Audit](https://github.com/VasaviKosaraju1/cloud-tag-audit)
