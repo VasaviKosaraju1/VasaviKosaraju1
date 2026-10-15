@@ -1,35 +1,27 @@
-<h1 align="center">Hi 👋, I’m Vasavi Kosaraju</h1>
-<h3 align="center">DevOps &amp; Cloud Engineering | Exploring AI/ML</h3>
+# Vasavi Kosaraju
 
-<img align="right" src="./devops-workspace.svg" alt="Illustrated DevOps and cloud engineering workspace" width="300" />
+**DevOps & Cloud Engineering** · Exploring AI/ML
 
-- ☁️ My focus is **DevOps, cloud infrastructure, and automation**.
+I’m focused on automating delivery, working with cloud infrastructure, and making systems easier to operate. My projects explore deployment checks, reliability, and practical automation. Alongside that work, I’m interested in information retrieval and evaluation for AI applications.
 
-- 🛠️ I’m working on portfolio tools for **deployment checks, service reliability, and cloud operations**.
+[Connect on LinkedIn](https://www.linkedin.com/in/vasavik1/) · [Explore my repositories](https://github.com/VasaviKosaraju1?tab=repositories)
 
-- 🌱 I’m exploring **AI/ML**, especially document retrieval, evaluation, and reliable AI systems.
-
-- 💬 Let’s talk about **Azure, AWS, CI/CD, infrastructure as code, and Python automation**.
-
-- 🔎 You’ll find **working examples, tests, and design notes** in my repositories.
-
-- 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/vasavik1/)**.
-
-<br clear="both" />
-
-## Connect with me
-
-<a href="https://www.linkedin.com/in/vasavik1/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Connect with Vasavi Kosaraju on LinkedIn" height="44" /></a>
-
-## Languages and tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,kubernetes,githubactions,jenkins,git,python,bash,powershell,linux&amp;perline=6&amp;theme=dark" alt="Azure, AWS, Terraform, Docker, Kubernetes, GitHub Actions, Jenkins, Git, Python, Bash, PowerShell, and Linux" />
+<p align="center">
+<img src="./devops-workspace.svg" alt="Illustrated cloud and deployment engineering workspace" width="420" />
 </p>
 
-**Cloud:** Azure · AWS  
-**Delivery & infrastructure:** Terraform · Azure Bicep · Azure DevOps · GitHub Actions · Jenkins  
-**Containers & scripting:** Docker · Kubernetes · Python · Bash · PowerShell
+## My toolkit
+
+**Cloud & infrastructure**  
+<img src="https://skillicons.dev/icons?i=azure,aws,terraform,linux&amp;theme=dark" alt="Azure, AWS, Terraform, and Linux" height="44" />
+
+**Delivery & containers**  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,git&amp;theme=dark" alt="Docker, Kubernetes, GitHub Actions, Jenkins, and Git" height="44" />
+
+**Scripting & automation**  
+<img src="https://skillicons.dev/icons?i=python,bash,powershell&amp;theme=dark" alt="Python, Bash, and PowerShell" height="44" />
+
+Also interested in Azure Bicep and Azure DevOps for infrastructure and delivery workflows.
 
 ## Featured DevOps & Cloud projects
 
