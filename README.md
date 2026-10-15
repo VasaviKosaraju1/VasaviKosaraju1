@@ -1,4 +1,4 @@
-![Vasavi Kosaraju — DevOps and Cloud Engineering, exploring AI and ML](./profile-banner.svg)
+![Vasavi Kosaraju — DevOps and Cloud Engineering, exploring AI and ML](./profile-banner-professional.svg)
 
 # Hi, I’m Vasavi 👋
 
