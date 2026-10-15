@@ -23,7 +23,4 @@ I’m interested in the practical work behind reliable software: checking a rele
 
 The projects are written in Python and include runnable examples, behavioral tests, design notes, and known limitations. They run locally without cloud credentials. Automated test workflows cover Python 3.11–3.13. Validation reports use synthetic fixtures and make the results reproducible.
 
-## Education
 
-- Bachelor’s degree in AI/ML
-- Master’s degree in ITM
