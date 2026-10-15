@@ -1,14 +1,21 @@
-![Vasavi Kosaraju — DevOps and Cloud Engineering, exploring AI and ML](./profile-banner-professional.svg)
+<h1 align="center">Hi 👋, I’m Vasavi Kosaraju</h1>
+<h3 align="center">DevOps &amp; Cloud Engineering | Exploring AI/ML</h3>
 
-# Hi there, I’m Vasavi 👋
+<img align="right" src="./devops-workspace.svg" alt="Illustrated DevOps and cloud engineering workspace" width="300" />
 
-### DevOps & Cloud Engineering · Exploring AI/ML
+- ☁️ My focus is **DevOps, cloud infrastructure, and automation**.
 
-- ☁️ My current focus is **DevOps, cloud infrastructure, and automation**.
-- 🛠️ I’m building portfolio tools for **deployment checks, reliability, and cloud operations**.
-- 🌱 I’m interested in **AI/ML**, especially information retrieval, evaluation, and reliable AI systems.
-- 🔎 Explore my projects below for working examples, tests, and design notes.
-- 💬 Let’s connect about **DevOps, Cloud, and practical AI projects**.
+- 🛠️ I’m working on portfolio tools for **deployment checks, service reliability, and cloud operations**.
+
+- 🌱 I’m exploring **AI/ML**, especially document retrieval, evaluation, and reliable AI systems.
+
+- 💬 Let’s talk about **Azure, AWS, CI/CD, infrastructure as code, and Python automation**.
+
+- 🔎 You’ll find **working examples, tests, and design notes** in my repositories.
+
+- 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/vasavik1/)**.
+
+<br clear="both" />
 
 ## Connect with me
 
