@@ -23,11 +23,26 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### AI/ML — exploring
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+My current AI-related projects use **Python, BM25 retrieval, and retrieval evaluation**. The tools above represent areas I’m exploring.
+
 ## 📊 GitHub Stats
 
-[![Vasavi’s GitHub activity statistics](https://github-stats-extended.vercel.app/api?username=VasaviKosaraju1&show_icons=true&theme=radical&hide_rank=true)](https://github.com/VasaviKosaraju1?tab=repositories)
+[![Vasavi’s GitHub activity statistics](https://github-stats-extended.vercel.app/api?username=VasaviKosaraju1&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/VasaviKosaraju1?tab=repositories)
 
-[![Public activity milestones for commits, repositories, and pull requests](https://trophy.ryglcloud.net/?username=VasaviKosaraju1&theme=radical&title=Commits,Repositories,PullRequest&column=3&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 Activity Milestones
+
+[![Public activity milestones for commits, repositories, and pull requests](https://trophy.ryglcloud.net/?username=VasaviKosaraju1&theme=tokyonight&title=Commits,Repositories,PullRequest&column=3&margin-w=12&margin-h=12&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <sub>Cards summarize public GitHub activity. Trophy graphics are third-party activity summaries, not GitHub achievement badges.</sub>
 
