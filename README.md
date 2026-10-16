@@ -3,7 +3,8 @@
 ☁️ Focused on **DevOps & Cloud Engineering**, with an interest in **AI/ML**.  
 🛠️ Building portfolio tools for deployment checks, automation, and service reliability.  
 🌱 Exploring information retrieval, evaluation, and the engineering behind reliable AI applications.  
-🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasavik1/) or explore my pinned projects below.
+🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasavik1/) or explore my pinned projects below.  
+🚀 [Try my Runbook Search demo](https://vasavikosaraju1.github.io/runbook-search/) — browser-based retrieval with source references.
 
 ## 💻 Tech Stack
 
