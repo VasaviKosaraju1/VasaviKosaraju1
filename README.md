@@ -6,6 +6,14 @@
 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasavik1/) or explore my pinned projects below.  
 🚀 [Try my Runbook Search demo](https://vasavikosaraju1.github.io/runbook-search/) — browser-based retrieval with source references.
 
+## 🔧 Featured build: Runbook Search
+
+A retrieval project with a DevOps deployment lab: a non-root container, GitHub Actions checks, Azure Bicep templates, health probes, monitoring queries, and rollback instructions.
+
+[Live browser demo](https://vasavikosaraju1.github.io/runbook-search/) · [Code and tests](https://github.com/VasaviKosaraju1/runbook-search) · [Architecture and operations](https://github.com/VasaviKosaraju1/runbook-search/blob/main/OPERATIONS.md)
+
+<sub>The static demo is deployed. Azure infrastructure is prepared; a subscription deployment and operational validation are still pending.</sub>
+
 ## 💻 Tech Stack
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
